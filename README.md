@@ -11,7 +11,7 @@
 </ul>
 <!--dON'T FORGET TO COMMENT STUFF PLEASE -->
 <h1> What Is Code? </h1>
-<p> Code is multiple letters/numbers that control what happens in games/websites/technology. Code
+<p> Code is multiple letters/numbers that control what happens in games/websites/technology. Another explanation of what code is a set of rules that allow a machine/website/game to function.  Code consists of many diffirent languages, The basic ones include HTML, CSS, JavaScript and Python. </p>
 
 
 
