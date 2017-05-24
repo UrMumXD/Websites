@@ -15,7 +15,9 @@
 <p> Code is multiple letters/numbers that control what happens in games/websites/technology. Another explanation of what code is a set of rules that allow a machine/website/game to function.  Code consists of many different languages, The basic ones include HTML, CSS, JavaScript and Python. </p>
 <p> The 4 coding languages I had mentioned are only a small fraction of the amount of languages there are. Not all code is used for the same for example, Java is used for distributing progra/>ms among people over a network(s) and/or server(s), VB (Visual Basic) is used to edit already written bits of code to create/edit something in a different ways. </p>
 <p> A website you will want to visit is <a href="https://www.codecademy.com">CodeAcademy</a>, Soon during this presentation, I will show the code I used during the creation of this and the amount of code really isn't that much.
+
 <h1> What is Python </h1>
+<img src="http://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png"/> 
 <p> Python is farely new to me but it is a really useful Language to learn. Python can be used for multiple different things including Game/App Creation and Website building. before I tell you useful information I need to quickly nerd out for a second, python IS AWESOME, THE COOLEST THING ABOUT PYTHON IS THAT YOU GET A CONSOLE CLOSE TO WHERE YOU CODE AND IT SHOWS ALL THE ERRORS YOU'VE MADE, IT IS AWESOME.
 alright now that thats dones lets move onto the helpful information.
 
@@ -30,8 +32,8 @@ alright now that thats dones lets move onto the helpful information.
 <!-- REMEMBER, EACH PARAGRAPH DOESN'T HAVE AS MUCH INFORMATION AS IT LOOKS --!>
 <!-- THE FONT,COLOR AND PX SIZES DO NOT WORK ON GITHUB, DON'T USE IT --!>
 
-
-
+<h1> What is CSS? </h1>
+<img src="http://www.cssnewbie.com/wp-content/uploads/2015/01/css-organization.jpg"/>
 
 
 
