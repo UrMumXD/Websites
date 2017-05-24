@@ -33,7 +33,7 @@ alright now that thats dones lets move onto the helpful information.
 <!-- THE FONT,COLOR AND PX SIZES DO NOT WORK ON GITHUB, DON'T USE IT --!>
 
 <h1> What is CSS? </h1>
-<img src="http://www.cssnewbie.com/wp-content/uploads/2015/01/css-organization.jpg"/>
+<p> CSS (or Counter Strike Source as I call it) has code that looks very similar, 
 
 
 
