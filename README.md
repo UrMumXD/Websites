@@ -54,10 +54,10 @@ The ol and ul commands are almost the same, the only diffirence is that one uses
 <!-- THE FONT,COLOR AND PX SIZES DO NOT WORK ON GITHUB, DON'T USE IT --!>
 
 <h1> What is CSS? </h1>
-<p> CSS (or Counter Strike Source as I call it) has code that looks very similar, 
+<p> CSS or Cascade Style Sheets (or Counter Strike Source as I call it) is the styling part of HTML. CSS has a very simple purpose and once you talk about HTML commands, theres nothing to really talk about CSS, The only thing you can really say about CSS is that it alters the look of a website. </p>
 
-
-
-
+<h1> Why is code Important </p>
+<p> With the direction society is heading in, AKA the technological direction, Code will be used for a lot more things than it is now.
+Code can also be used to programs new machines that can be sold for a lot of money
 
 
