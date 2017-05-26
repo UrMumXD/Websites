@@ -56,8 +56,17 @@ The ol and ul commands are almost the same, the only diffirence is that one uses
 <h1> What is CSS? </h1>
 <p> CSS or Cascade Style Sheets (or Counter Strike Source as I call it) is the styling part of HTML. CSS has a very simple purpose and once you talk about HTML commands, theres nothing to really talk about CSS, The only thing you can really say about CSS is that it alters the look of a website. </p>
 
-<h1> Why is code Important </p>
+<h1> Why is code Important </h1>
 <p> With the direction society is heading in, AKA the technological direction, Code will be used for a lot more things than it is now.
-Code can also be used to programs new machines that can be sold for a lot of money
+Code can also be used to programs new machines that can be sold for a lot of money. The more technology people make the more types of code there that can be taught allowing more inventions to be created and newer code to be used and so on.</p>
+<h1> The end of my presentation </h1>
+<p> We've reached the end of my presentation, this is almost all I know about HTML and other code I've used, If you want to know more, Learn to code at various sites, Scratch, Code.org and CodeAcademy.
+For putting up with my presentation, heres a meme (づ◔ ͜ʖ◔)づ. ALSO I will show you my 67 lines of code (Not bragging at all).
+</p>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Feels_good_man.jpg/200px-Feels_good_man.jpg"/>
+<!-- ADDING TO THE LINE OF CODE USED SO I FEEL SMART AND YOU THINK I'M SMART --!>
+
+
+
 
 
