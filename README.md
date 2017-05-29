@@ -61,8 +61,7 @@ src="image link"/, the a command allows you to add links to certain words us a h
 Code can also be used to programs new machines that can be sold for a lot of money. The more technology people make the more types of code there that can be taught allowing more inventions to be created and newer code to be used and so on.</p>
 <h1> The end of my presentation </h1>
 <p> We've reached the end of my presentation, this is almost all I know about HTML and other code I've used, If you want to know more, Learn to code at various sites, Scratch, Code.org and CodeAcademy.
-For putting up with my presentation, heres a meme (づ◔ ͜ʖ◔)づ. ALSO I will show you my 67 lines of code (Not bragging at all).
-</p>
+After I show you this meme, I will show you the all the lines of code used in this presentation.</p>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Feels_good_man.jpg/200px-Feels_good_man.jpg"/>
 <!-- ADDING TO THE LINE OF CODE USED SO I FEEL SMART AND YOU THINK I'M SMART --!>
 
