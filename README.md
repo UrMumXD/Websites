@@ -18,8 +18,7 @@
 
 <h1> What is Python </h1>
 <img src="http://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png"/> 
-<p> Python is farely new to me but it is a really useful Language to learn. Python can be used for multiple different things including Game/App Creation and Website building. before I tell you useful information I need to quickly nerd out for a second, python IS AWESOME, THE COOLEST THING ABOUT PYTHON IS THAT YOU GET A CONSOLE CLOSE TO WHERE YOU CODE AND IT SHOWS ALL THE ERRORS YOU'VE MADE, IT IS AWESOME.
-alright now that thats dones lets move onto the helpful information.
+<p> Python is farely new to me but it is a really useful Language to learn. Python can be used for multiple different things including Game/App Creation and Website building. before I tell you useful information I need to quickly nerd out for a second, python is very cool to me at least, Python has a console that allows you to see any errors you've made in coding.
 A part of python is using it as a calculator that uses letters and store information that you can use later on with the code. 
 
 
@@ -54,6 +53,7 @@ src="image link"/, the a command allows you to add links to certain words us a h
 <!-- THE FONT,COLOR AND PX SIZES DO NOT WORK ON GITHUB, DON'T USE IT --!>
 
 <h1> What is CSS? </h1>
+<img src="https://mdn.mozillademos.org/files/9461/css-declaration-small.png" HEIGHT="200" WIDTH="500" BORDER="0"/>
 <p> CSS or Cascade Style Sheets (or Counter Strike Source as I call it) is the styling part of HTML. CSS has a very simple purpose and once you talk about HTML commands, theres nothing to really talk about CSS, The only thing you can really say about CSS is that it alters the look of a website. </p>
 
 <h1> Why is code Important </h1>
