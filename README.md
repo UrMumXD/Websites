@@ -65,7 +65,7 @@ After I show you this meme, I will show you the all the lines of code used in th
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Feels_good_man.jpg/200px-Feels_good_man.jpg"/>
 <!-- ADDING TO THE LINE OF CODE USED SO I FEEL SMART AND YOU THINK I'M SMART --!>
 
-
+<!-- VIDEO COMMAND DOES NOT WORK --!>
 
 
 
