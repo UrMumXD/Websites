@@ -14,7 +14,6 @@
 <h1> What Is Code? </h1>
 <p> Code is multiple letters/numbers that control what happens in games/websites/technology. Another explanation of what code is a set of rules that allow a machine/website/game to function.  Code consists of many different languages, The basic ones include HTML, CSS, JavaScript and Python. </p>
 <p> The 4 coding languages I had mentioned are only a small fraction of the amount of languages there are. Not all code is used for the same for example, Java is used for distributing progra/>ms among people over a network(s) and/or server(s), VB (Visual Basic) is used to edit already written bits of code to create/edit something in a different ways. </p>
-<p> Soon during this presentation, I will show the code I used during the creation of this and the amount of code really isn't that much.
 
 <h1> What is Python </h1>
 <img src="http://www.vizteams.com/wp-content/uploads/2013/08/python-logo-master.png"/> 
